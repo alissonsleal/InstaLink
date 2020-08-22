@@ -1,0 +1,21 @@
+{
+  "name": "InstaLink",
+  "version": "1.0",
+  "description": "Get a clickable Instagram link from someone's Tinder bio on your computer",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://tinder.com/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}

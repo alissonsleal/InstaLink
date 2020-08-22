@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: #424242;
+  padding: 1rem;
+}
+
+#instaBtn {
+  color: #fe3c72;
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: none;
+}
+::selection {
+  background-color: #fe3c72;
+}
+
+img {
+  height: 48px;
+}
+
+.center {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+}
