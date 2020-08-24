@@ -1,17 +1,18 @@
 <p align="center">
-    <a href="https://github.com/Alissonsleal/InstaLike/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Alissonsleal/InstaLike?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/InstaLike/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Alissonsleal/InstaLike?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/InstaLike/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Alissonsleal/InstaLike?color=sucess&style=flat-square"></a>
-    <a href="https://github.com/Alissonsleal/InstaLike/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Alissonsleal/InstaLike?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/Alissonsleal/InstaLink/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Alissonsleal/InstaLink?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/Alissonsleal/InstaLink/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Alissonsleal/InstaLink?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/Alissonsleal/InstaLink/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Alissonsleal/InstaLink?color=sucess&style=flat-square"></a>
+    <a href="https://github.com/Alissonsleal/InstaLink/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Alissonsleal/InstaLink?color=sucess&style=flat-square"></a>
     <a href="https://github.com/Alissonsleal/"><img alt="Alisson Leal GitHub Profile" src="https://img.shields.io/badge/made%20by-Alisson%20Leal-sucess?style=flat-square&logo=appveyor"></a>
 </p>
 
-# InstaLike
+# InstaLink
+
 ## Description
 
 Get a clickable Instagram link from someone's Tinder bio on the web.
 
-[Back To The Top](#InstaLike)
+[Back To The Top](#InstaLink)
 
 #### Tecnologies
 
