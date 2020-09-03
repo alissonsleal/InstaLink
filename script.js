@@ -11,10 +11,10 @@ let classes =
 
 let text = "";
 let instaLink = "";
-getSelectionText = () => {
+let getSelectionText = () => {
   if (window.getSelection) {
     text = window.getSelection().toString();
-    let instaLink = `https://instagram.com/${text}`;
+    instaLink = `https://instagram.com/${text}`;
     console.log(instaLink);
     btn.href = instaLink;
     document.querySelector(classes).appendChild(btn);
